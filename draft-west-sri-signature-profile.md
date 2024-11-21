@@ -23,7 +23,7 @@ title: "An HTTP Message Signature Profile for Client-Side Verification"
 abbrev: "SRI Signature Profile"
 category: info
 
-docname: draft-west-sri-signature-profile
+docname: draft-west-sri-signature-profile-latest
 submissiontype: IETF
 number:
 date:
@@ -113,7 +113,7 @@ The signature's input MUST:
     their associated constraints:
 
     *   `identity-digest`, which MUST include the `sf` parameter (Section 2.1
-         of RFC9421}}) and no other parameters. 
+         of RFC9421}}) and no other parameters.
 
 2.  Include the following parameters (Section 2.3 of {{RFC9421}}) with their
     associated constraints:
