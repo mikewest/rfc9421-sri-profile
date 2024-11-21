@@ -9,16 +9,16 @@ number:
 date:
 consensus: true
 v: 3
-area: "Applications"
-workgroup: "HyperText Transfer Protocol"
+# area: "Applications"
+# workgroup: "HyperText Transfer Protocol"
 keyword:
  - message signature profile
  - subresource integrity
 venue:
-  group: "HyperText Transfer Protocol"
-  type: "Working Group"
-  mail: "http-wg@hplb.hp.com"
-  arch: "https://www.ics.uci.edu/pub/ietf/http/hypermail"
+#  group: "HyperText Transfer Protocol"
+#  type: "Working Group"
+#  mail: "http-wg@hplb.hp.com"
+#  arch: "https://www.ics.uci.edu/pub/ietf/http/hypermail"
   github: "mikewest/rfc9421-sri-profile"
   latest: "https://mikewest.github.io/rfc9421-sri-profile/draft-west-sri-signature-profile.html"
 
